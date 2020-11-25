@@ -7,6 +7,7 @@ const example = {
         loading: true,
         error: null,
     };
+const {data, loading, error} = useFetch(url);
 ```
 
 
