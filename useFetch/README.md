@@ -2,7 +2,7 @@
 
 ```
 const url = `https://www.ejemplo.com/api/endpoint`;
-const { 
+const example = { 
         data: null,
         loading: true,
         error: null,
